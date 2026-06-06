@@ -37,7 +37,7 @@ Contact
 
 Email: [paulcervellero4710@gmail.com](mailto:paulcervellero4710@gmail.com)  
 LinkedIn: [linkedin.com/in/paul-cervellero-19b43a237/](https://www.linkedin.com/in/paul-cervellero-19b43a237/)  
-Portfolio: [cervellp.github.io](https://cervellp.github.io)
+Portfolio: [cervellp.github.io](https://github.com/paulcervellero)
 
 ---
 
