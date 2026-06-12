@@ -1,6 +1,6 @@
 Paul Cervellero
 
-Computer Engineering Student** | University of South Carolina | Class of 2027  
+Computer Engineering Student| University of South Carolina | Class of 2027  
 
 I am a Computer Engineering student with a strong interest in software development, systems design, and automation. My experience includes developing applications in C++, Python, and Java, as well as working with Unix/Linux environments. I focus on writing efficient, maintainable code and solving problems through analytical thinking and collaboration.
 
