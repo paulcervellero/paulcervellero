@@ -24,7 +24,7 @@ A PID control-system simulation that demonstrates algorithmic feedback and syste
 - Languages: C++, Python, Java  
 - Systems: Unix/Linux, Windows  
 - Concepts: Object-Oriented Programming, Data Structures, Systems Simulation, Debugging, Testing  
-- Tools: Git, Visual Studio Code, Power BI, Microsoft Office  
+- Tools: Git, GitHub, Visual Studio Code, Linux/Unix, Power BI, Microsoft Office  
 
 ---
  Experience and Interests
