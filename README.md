@@ -1,8 +1,8 @@
 # Hi, I'm Paul Cervellero
 
-Computer Engineering student at the University of South Carolina focused on embedded systems, software engineering, and data-driven engineering solutions.
+Computer Engineering student at the University of South Carolina passionate about embedded systems, software engineering, and data-driven solutions.
 
-I enjoy designing reliable software, solving practical engineering problems, and building projects that combine hardware, software, and analytics. My experience includes embedded systems development, business intelligence, and modern software engineering practices.
+I enjoy building reliable software that solves real engineering problems, from embedded firmware and systems programming to business intelligence and data visualization. My goal is to develop practical, maintainable solutions while continuously expanding my knowledge of modern engineering tools and technologies.
 
 ---
 
@@ -19,23 +19,29 @@ I enjoy designing reliable software, solving practical engineering problems, and
 ## Featured Projects
 
 ### Falcon Embedded Flight Computer
-A modular embedded flight computer software project built using professional engineering practices. The project emphasizes scalable architecture, Git workflows, documentation, testing, and embedded software development.
 
-**Repository:**  
+A modular embedded flight computer software project focused on professional software engineering practices for embedded systems. The project emphasizes scalable architecture, documentation, version control, testing, and maintainable firmware design.
+
+Repository:
 https://github.com/paulcervellero/embedded_flight_computer_v1
 
 ---
 
-### Portfolio Website
-Personal engineering portfolio showcasing my projects, technical skills, and professional experience.
+### Personal Portfolio Website
 
-**Website:**  
+A responsive portfolio website built with HTML and CSS to showcase my engineering projects, technical skills, and professional experience.
+
+Website:
 https://paulcervellero.github.io
+
+Repository:
+https://github.com/paulcervellero/paulcervellero.github.io
 
 ---
 
 ### Inventory Manager (C++)
-Command-line inventory management application demonstrating object-oriented programming, file handling, and structured data management.
+
+A command-line inventory management application demonstrating object-oriented programming, file handling, and structured data management using C++.
 
 Repository:
 https://github.com/paulcervellero/inventory-manager-cpp
@@ -43,7 +49,8 @@ https://github.com/paulcervellero/inventory-manager-cpp
 ---
 
 ### WeatherViz (Python)
-Python application integrating the OpenWeather API and Matplotlib to visualize hourly weather forecasts and demonstrate API integration and data visualization.
+
+A Python application integrating the OpenWeather API and Matplotlib to generate weather forecasts and data visualizations.
 
 Repository:
 https://github.com/paulcervellero/weather-viz-python
@@ -61,7 +68,7 @@ https://github.com/paulcervellero/weather-viz-python
 - HTML
 - CSS
 
-### Tools
+### Tools & Technologies
 
 - Git
 - GitHub
@@ -74,29 +81,38 @@ https://github.com/paulcervellero/weather-viz-python
 
 - Embedded Systems
 - Object-Oriented Programming
-- Data Structures
+- Data Structures & Algorithms
 - API Integration
-- Debugging
-- Testing
+- Debugging & Testing
 - Technical Documentation
 
 ---
 
 ## Professional Experience
 
-Business Intelligence Intern
+### Business Intelligence Intern
 
 Developed Power BI dashboards, transformed operational datasets, automated reporting workflows, and supported business decision-making through data visualization and analytics.
 
 ---
 
+## Currently Learning
+
+- Embedded Firmware Development
+- STM32 Microcontrollers
+- Real-Time Embedded Systems
+- Software Architecture
+- Modern C Programming
+
+---
+
 ## Connect
 
-Portfolio:  
+Portfolio:
 https://paulcervellero.github.io
 
-LinkedIn:  
+LinkedIn:
 https://www.linkedin.com/in/paul-cervellero-19b43a237/
 
-Email:  
-paulcervellero4710@gmail.com
+Email:
+paulcervellero@gmail.com
