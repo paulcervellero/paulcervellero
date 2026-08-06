@@ -1,8 +1,8 @@
 # Hi, I'm Paul Cervellero
 
-Computer Engineering student at the University of South Carolina passionate about embedded systems, software engineering, and data-driven solutions.
+I build embedded systems, software applications, and data-driven engineering solutions.
 
-I enjoy building reliable software that solves real engineering problems, from embedded firmware and systems programming to business intelligence and data visualization. My goal is to develop practical, maintainable solutions while continuously expanding my knowledge of modern engineering tools and technologies.
+I'm a Computer Engineering student at the University of South Carolina (Class of 2027) with interests in embedded systems, software engineering, and automation. I enjoy designing reliable software, learning modern engineering practices, and building projects that solve real-world engineering problems.
 
 ---
 
@@ -10,49 +10,50 @@ I enjoy building reliable software that solves real engineering problems, from e
 
 - Embedded Systems Development
 - STM32 & Embedded C
-- Software Engineering
+- C++ Software Engineering
 - Business Intelligence & Power BI
-- C++ and Python Development
+- Python Development
+- Professional Software Engineering Practices
 
 ---
 
 ## Featured Projects
 
-### Falcon Embedded Flight Computer
+### Falcon Flight Computer
 
-A modular embedded flight computer software project focused on professional software engineering practices for embedded systems. The project emphasizes scalable architecture, documentation, version control, testing, and maintainable firmware design.
+A modular embedded flight computer software project built using professional software engineering practices. The project emphasizes scalable architecture, embedded firmware development, documentation, version control, testing, and maintainable code organization.
 
-Repository:
+**Repository:**  
 https://github.com/paulcervellero/embedded_flight_computer_v1
 
 ---
 
-### Personal Portfolio Website
+### Portfolio Website
 
 A responsive portfolio website built with HTML and CSS to showcase my engineering projects, technical skills, and professional experience.
 
-Website:
+**Website:**  
 https://paulcervellero.github.io
 
-Repository:
+**Repository:**  
 https://github.com/paulcervellero/paulcervellero.github.io
 
 ---
 
 ### Inventory Manager (C++)
 
-A command-line inventory management application demonstrating object-oriented programming, file handling, and structured data management using C++.
+A command-line inventory management application demonstrating object-oriented programming, file handling, and structured data management using modern C++.
 
-Repository:
+**Repository:**  
 https://github.com/paulcervellero/inventory-manager-cpp
 
 ---
 
 ### WeatherViz (Python)
 
-A Python application integrating the OpenWeather API and Matplotlib to generate weather forecasts and data visualizations.
+A Python application integrating the OpenWeather API and Matplotlib to generate weather forecasts and data visualizations while demonstrating API integration and data processing.
 
-Repository:
+**Repository:**  
 https://github.com/paulcervellero/weather-viz-python
 
 ---
@@ -85,6 +86,7 @@ https://github.com/paulcervellero/weather-viz-python
 - API Integration
 - Debugging & Testing
 - Technical Documentation
+- Software Design
 
 ---
 
@@ -92,7 +94,7 @@ https://github.com/paulcervellero/weather-viz-python
 
 ### Business Intelligence Intern
 
-Developed Power BI dashboards, transformed operational datasets, automated reporting workflows, and supported business decision-making through data visualization and analytics.
+Developed interactive Power BI dashboards, transformed operational datasets, automated reporting workflows, and supported business decision-making through data visualization and analytics.
 
 ---
 
@@ -108,11 +110,11 @@ Developed Power BI dashboards, transformed operational datasets, automated repor
 
 ## Connect
 
-Portfolio:
+**Portfolio**  
 https://paulcervellero.github.io
 
-LinkedIn:
+**LinkedIn**  
 https://www.linkedin.com/in/paul-cervellero-19b43a237/
 
-Email:
-paulcervellero@gmail.com
+**Email**  
+paulcervellero4710@gmail.com
