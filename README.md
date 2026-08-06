@@ -117,4 +117,4 @@ https://paulcervellero.github.io
 https://www.linkedin.com/in/paul-cervellero-19b43a237/
 
 **Email**  
-paulcervellero4710@gmail.com
+paulcervellero@gmail.com
